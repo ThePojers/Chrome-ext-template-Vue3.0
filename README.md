@@ -1,5 +1,5 @@
 # mv3-vue-chrome-extension-template
-modern chrome-extension development template
+Modern chrome-extension development template
 
 Support
 - [x] Manifest V3
