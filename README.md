@@ -1,24 +1,32 @@
-# chrome-ext
+# mv3-vue-chrome-extension-template
+modern chrome-extension development template
 
-## Project setup
+Support
+- [x] Manifest V3
+- [x] Vue3
+- [x] Bootstrap-vue 3 (alpha version not production ready)
+- [x] Typescript
+- [x] Hot Reload
+
+
+# Quick Start
+
+## Install
 ```
+git clone https://github.com/ThePojers/Chrome-ext-template-Vue3.0.git
+cd Chrome-ext-template-Vue3.0
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
 npm run build
+mv .env.sample .env
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### Open `chrome://extensions`
+#### Click Load Unpacked
+#### Click `Browse` and select `dist` folder
+
+## Build
+`npm run build`
+
+## Hot reload
+`npm run dev`
