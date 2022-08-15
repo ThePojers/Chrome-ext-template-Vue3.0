@@ -1,4 +1,4 @@
-# mv3-vue-chrome-extension-template
+# Chrome-Extension-Template-Vue3
 Modern chrome-extension development template
 
 Support
