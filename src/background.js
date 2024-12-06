@@ -1,10 +1,5 @@
-var browser = browser || chrome
+var browser = browser || chrome;
 
 browser.runtime.onMessage.addListener(function () {
-  console.log('Hello from the background')
-})
-
-
-
-
-
+  console.log("Hello from the background");
+});
