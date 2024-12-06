@@ -5,9 +5,15 @@
 </template>
 
 <script>
+console.log('ssdasdasdas')
 </script>
 
 <style scoped>
+.someStyle
+
+{
+  color: red;
+}
 
 
 </style>
