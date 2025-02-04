@@ -1,24 +1,13 @@
 <template>
   <div>
-       <p>Content
-
-
-       </p
-       
-       
-       >
-    </div>
+    <p>Content</p>
+  </div>
 </template>
 
-<script>
-</script>
+<script></script>
 
-<style scoped
-
-
-
->
-  .some-style {
-    color:    red;
-      }
+<style scoped>
+.some-style {
+  color: red;
+}
 </style>
