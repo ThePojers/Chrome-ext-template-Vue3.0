@@ -1,12 +1,24 @@
 <template>
   <div>
-    <p>Content</p>
-  </div>
+       <p>Content
+
+
+       </p
+       
+       
+       >
+    </div>
 </template>
 
 <script>
 </script>
 
-<style scoped>
+<style scoped
 
+
+
+>
+  .some-style {
+    color:    red;
+      }
 </style>
