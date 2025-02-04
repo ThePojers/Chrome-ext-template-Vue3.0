@@ -1,21 +1,9 @@
 <template>
   <div>
-    <p>Content</p
-      
-      
-      
-      >
+    <p>Content</p>
   </div>
 </template>
 
-<script>
-</script>
+<script></script>
 
-<style 
-
-scoped
-
-
->
-
-</style>
+<style scoped></style>
